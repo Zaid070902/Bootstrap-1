@@ -13,3 +13,7 @@ html{
     text-shadow: black 0 5px;
     font-weight: 700;
 }
+
+nav{
+    box-shadow: black 0 5px 10px ;
+}
